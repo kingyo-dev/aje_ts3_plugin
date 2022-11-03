@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>19F101</string>
+	<key>CFBundleDisplayName</key>
+	<string>TeamSpeak Client SDK</string>
+	<key>CFBundleExecutable</key>
+	<string>ts3client</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.teamspeak.ts_client_sdk</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ts_client_sdk</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleVersion</key>
+	<string>3.1.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>19F101</string>
+	<key>DTSDKName</key>
+	<string>10.15.4</string>
+	<key>DTXcode</key>
+	<string>0115</string>
+	<key>DTXcodeBuild</key>
+	<string>11E608c</string>
+	<key>MinimumOSVersion</key>
+	<string>11.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>TeamSpeak Systems GmbH</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<string>1</string>
+		<string>2</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string></string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module ts3client {
+  umbrella header "ts3client.h"
+
+  export *
+  module * { export * }
+}

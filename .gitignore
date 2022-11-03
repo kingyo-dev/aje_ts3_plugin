@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!makefile
+!README.md
+!aje_ts3plugin_64bit.dll
+!/doc
+!/include
+!/src
+!/web.test
